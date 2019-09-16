@@ -1,0 +1,17 @@
+.container{
+    padding:5%;
+}
+.container .img{
+    text-align:center;
+}
+.container .details{
+    border-left:6px solid #ded4da;
+}
+.container .details p{
+    font-size:15px;
+    font-weight:bold;
+}
+.profile-userbuttons {
+    text-align: center;
+    margin-top: 10px;
+  }
